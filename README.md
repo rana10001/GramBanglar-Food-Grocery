@@ -123,7 +123,7 @@ margin-top:5px;
 
 <div class="hero">
 <h2>খাঁটি দেশি পণ্য অনলাইনে অর্ডার করুন</h2>
-<p>পাবনার ঘি • মধু • খেজুরের গুড় • পাটালি গুড়</p>
+<p>পাবনার ঘি • মধু • খেজুরের গুড় • আখের গুড়</p>
 <a class="btn" href="#products">🛒 এখনই শপিং করুন</a>
 </div>
 
@@ -131,25 +131,25 @@ margin-top:5px;
 
 <div class="card">
 <h3>পাবনার খাঁটি ঘি</h3>
-<p class="price">৳ 650 / 250ml</p>
+<p class="price">৳ 750 / 500ml</p>
 <button class="order">WhatsApp অর্ডার</button>
 </div>
 
 <div class="card">
 <h3>দেশি মধু</h3>
-<p class="price">৳ 500 / 500gm</p>
+<p class="price">৳ ৫০০ / 500gm</p>
 <button class="order">WhatsApp অর্ডার</button>
 </div>
 
 <div class="card">
 <h3>খেজুরের গুড়</h3>
-<p class="price">৳ 180 / 1kg</p>
+<p class="price">৳ ৪৫০ / 1kg</p>
 <button class="order">WhatsApp অর্ডার</button>
 </div>
 
 <div class="card">
-<h3>পাটালি গুড়</h3>
-<p class="price">৳ 220 / 1kg</p>
+<h3>আখের গুড়</h3>
+<p class="price">৳ ২৫০ / 1kg</p>
 <button class="order">WhatsApp অর্ডার</button>
 </div>
 
@@ -157,7 +157,7 @@ margin-top:5px;
 
 <footer>
 <p>💳 বিকাশ | নগদ | ব্যাংক ট্রান্সফার</p>
-<p>📞 যোগাযোগ: 01XXXXXXXXX</p>
+<p>📞 যোগাযোগ: 01941181222</p>
 <p>© 2026 গ্রামবাংলার ঐতিহ্যবাহী খাবার</p>
 </footer>
 
